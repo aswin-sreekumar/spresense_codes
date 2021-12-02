@@ -1,6 +1,8 @@
 #include <sdk/config.h>
 #include <stdio.h>
 
+//include <sys/boardctl.h>
+
 #include <arch/board/board.h>
 #include <arch/chip/pin.h>
 
